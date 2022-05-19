@@ -11,12 +11,10 @@ function App() {
   return (
     <div>
       <h1>Bem vindo a minha aplicação</h1>
-      <MyButton/>
-      <MyButton/>
-      <MyButton/>
     </div>
     
   );
 }
 
 export default App;
+ 
